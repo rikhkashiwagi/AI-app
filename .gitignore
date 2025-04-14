@@ -1,0 +1,17 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+*
+
+# Python 関連
+*.pyc
+__pycache__/
+.venv/
+
+# Streamlit 関連
+.streamlit/
+
+# OS 固有のファイル
+.DS_Store
+Thumbs.db
+
+# 機密情報
+secrets.toml 
